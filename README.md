@@ -27,6 +27,7 @@ DEMO_DOWNLOAD: 'true'
 REMIND_RECORD: 'false'
 DAMAGE_REPORT: 'true'
 DELAY_READY: 'false'
+PAUSE_METHOD: 'nextRound'
 USE_DELAY_END_RECORD: 'true'
 ````
 

@@ -24,6 +24,7 @@ ebot:
     REMIND_RECORD: 'false'
     DAMAGE_REPORT: 'true'
     DELAY_READY: 'false'
+    PAUSE_METHOD: 'nextRound'
     NODE_STARTUP_METHOD: 'node'
     USE_DELAY_END_RECORD: 'true'
     TOORNAMENT_PLUGIN_KEY: ''
